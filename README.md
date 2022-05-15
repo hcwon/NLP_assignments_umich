@@ -1,1 +1,1 @@
-# NLP_assignments_umich
+## some assignments from si630
